@@ -23,7 +23,7 @@
 <h3 align="center">Fast-Typy</h3>
 
   <p align="center">
-    A command line for simple, fast, and easy to use typing game.
+    A command line game for simple, fast, and easy to use typing game.
     <br />
     <a href="https://github.com/PrynsTag/Fast-Typy"><strong>Explore the docs »</strong></a>
     <br />
@@ -187,7 +187,6 @@ Project Link: [https://github.com/PrynsTag/Fast-Typy](https://github.com/PrynsTa
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [pypi-shield]: https://img.shields.io/pypi/v/Fast-Typy?label=Pypi%20Package&style=for-the-badge
 [pypi-url]: https://pypi.org/project/Fast-Typy/ 
 [contributors-shield]: https://img.shields.io/github/contributors/PrynsTag/Fast-Typy.svg?style=for-the-badge
