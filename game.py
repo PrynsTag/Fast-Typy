@@ -3,7 +3,7 @@ The Game class that contains the code for the game.
 
 :Author: Prince Carl Velasco
 :Date: 2022-06-12
-:Version: 1.0
+:Version: 0.1.0
 :Description:
     - It contains the main menu.
     - It contains the game start function.
